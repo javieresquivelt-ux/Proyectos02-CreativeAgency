@@ -188,3 +188,5 @@ La sección de categorías usa `transform: translateX(-40px)` para romper leveme
 
 ### 5. HTML5 Boilerplate como punto de partida
 Usar un boilerplate experimentado en lugar de un archivo HTML en blanco introduce al desarrollador en decisiones ya resueltas por la comunidad: estilos cross-browser, manejo de `::selection`, clases de accesibilidad (`.visually-hidden`), estilos de impresión. Entender qué hace cada parte del boilerplate es más valioso que simplemente borrarlo.
+
+Proyecto desarrollado como ejercicio de práctica de maquetación web con HTML y CSS.
